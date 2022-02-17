@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://media.discordapp.net/attachments/929357585658822678/943009996118065162/mhqEaDp.png?width=619&height=480" alt="xoreaxdaboss" /> </p>
+
 # Reworked source code of CyberVal
 
 Credits go to: all turkish/spanish pasters and to zeroday-z for the complete dead code.
