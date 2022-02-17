@@ -12,6 +12,12 @@ I update the offsets here when I have time and feel like it. The current version
 
 The state+key is updated for 4.02 and works. (LineOfSight is outdated atm)
 
+# Important
+
+You cannot inject this cheat into newer windows versions. You don't need to try it, it won't work without bypass!!!
+
+It will work on 1803 and 1809 (maybe lower too)
+
 
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
